@@ -38,7 +38,7 @@ This project is a simple machine learning-based web application that classifies 
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/spam-classifier.git
+git clone https://github.com/Kalthuma007/spam_classifier_app
 cd spam-classifier
 ```
 
@@ -64,10 +64,3 @@ python app.py
 5. **Visit in your browser**  
 [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
-## ✨ Screenshot
-
-_Add a screenshot of your app here if you like._
-
-## 📜 License
-
-This project is open source and available under the [MIT License](LICENSE).

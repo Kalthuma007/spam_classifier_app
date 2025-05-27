@@ -20,9 +20,9 @@ This project is a simple machine learning-based web application that classifies 
 ## 🗂️ Project Structure
 
 ```
-.
+ spam_classifier_app
+
 ├── app.py
-├── spam_classifier.py
 ├── model.pkl
 ├── notebook.ipynb
 ├── requirements.txt
@@ -64,3 +64,4 @@ python app.py
 5. **Visit in your browser**  
 [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
+🔗 **Live Demo**: [Try the App](https://spam-classifier-app-a65q.onrender.com)
